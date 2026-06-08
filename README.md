@@ -26,14 +26,13 @@ The model is built using a **Support Vector Machine (SVM)** classifier and train
 
 ---
 
-## Technologies Used
+## Libraries Used
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
